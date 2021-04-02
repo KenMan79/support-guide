@@ -29,11 +29,3 @@
 * [Running a Web Portal](the-technology/running-a-web-portal.md)
 * [Skyrocket](the-technology/skyrocket.md)
 
-## Siasky.net Accounts
-
-* [Portal Accounts](siasky.net-accounts/portal-accounts.md)
-* [Sign-up & Pick a Tier](siasky.net-accounts/sign-up-and-pick-a-tier.md)
-* [Understanding Data Usage](siasky.net-accounts/understanding-data-usage.md)
-* [Portal Account FAQs](siasky.net-accounts/portal-account-faqs.md)
-* [Developer API](siasky.net-accounts/developer-api.md)
-

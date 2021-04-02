@@ -34,13 +34,5 @@ Skynet is secure because Sia is secure. Also, by designing our ecosystem around 
 
 When a portal "pins" a skyfile on Skynet, they are telling the network that they are willing to continue paying for the storage costs of that file. Any number of portals can pin the same skyfile, and as long as the file is pinned, it will be available on Skynet. See [Web Portals on Skynet](../web-portals-on-skynet.md#file-pinning) for more.
 
-## How does Skynet use Siacoins?
 
-Skynet portals pay hosts on the Sia network in Siacoins. You do not need Siacoins or a wallet to use Skynet in your browser. For more information on costs, see [Is Skynet Free?](faqs.md#is-skynet-free-who-pays-for-storage-on-skynet) When monetization is released, developers and content creators will earn Siacoins, but payouts will be made by portals, not directly by Skynet users. 
-
-## Are there file size or bandwidth limits on Skynet?
-
-Skynet Web Portals currently support uploads of up to 1GB. If you [run your own portal](skynet-portals/using-a-sia-node-as-a-portal.md), the limit is 400GB. If you want to send files larger than 1GB in your browser, look into skapps like [Skysend](https://skysend.hns.siasky.net/) which breaks up files into smaller chunks before uploading.
-
-Portals pay for bandwidth costs, and your portal accounts will take bandwidth usage into consideration in your account's access tier. We do monitor to see if abuse is occurring on our web portal, and you can always [run your own portal](skynet-portals/using-a-sia-node-as-a-portal.md) if you're worried about bandwidth usage.
 
